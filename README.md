@@ -6,6 +6,18 @@ Welcome to the Quiz project! This repository is designed to collect simple quiz 
 
 Follow these steps to contribute your questions:
 
+### 0. Create an Issue
+
+Create an issue in the original repository. We will tag it as Hacktoberfest and assign it to you.
+
+Sample issue:
+
+```md
+I think we need to add more git questions in [here](https://github.com/GDG-Caldwell/Quiz/blob/main/Git/questions.md)
+
+I can add 2 questions and will follow the format given in [ReadMe](https://github.com/GDG-Caldwell/Quiz/blob/main/README.md#4-add-questions)
+```
+
 ### 1. Fork the Repository
 
 First, fork this repository to your own GitHub account.
