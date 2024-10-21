@@ -35,3 +35,21 @@
 - [x] B. `git checkout <branch>`
 - [ ] C. `git switch`
 - [ ] D. `git change`
+
+## Question 5
+
+**Which command shows the current state of the working directory and the staging area?**
+
+- [ ] A. `git log`
+- [ ] B. `git commit`
+- [x] C. `git status`
+- [ ] D. `git branch`
+
+## Question 6
+
+**How do you know on which branch you are working on?**
+
+- [ ] A. `git init branch`
+- [ ] B. `git make branch`
+- [ ] C. `git new branch`
+- [x] D. `git branch`
